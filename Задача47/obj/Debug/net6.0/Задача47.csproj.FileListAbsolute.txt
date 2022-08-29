@@ -1,0 +1,15 @@
+C:\Users\Ксю\Desktop\HomeWork\Задача47\obj\Debug\net6.0\Задача47.csproj.AssemblyReference.cache
+C:\Users\Ксю\Desktop\HomeWork\Задача47\obj\Debug\net6.0\Задача47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ксю\Desktop\HomeWork\Задача47\obj\Debug\net6.0\Задача47.AssemblyInfoInputs.cache
+C:\Users\Ксю\Desktop\HomeWork\Задача47\obj\Debug\net6.0\Задача47.AssemblyInfo.cs
+C:\Users\Ксю\Desktop\HomeWork\Задача47\obj\Debug\net6.0\Задача47.csproj.CoreCompileInputs.cache
+C:\Users\Ксю\Desktop\HomeWork\Задача47\bin\Debug\net6.0\Задача47.exe
+C:\Users\Ксю\Desktop\HomeWork\Задача47\bin\Debug\net6.0\Задача47.deps.json
+C:\Users\Ксю\Desktop\HomeWork\Задача47\bin\Debug\net6.0\Задача47.runtimeconfig.json
+C:\Users\Ксю\Desktop\HomeWork\Задача47\bin\Debug\net6.0\Задача47.dll
+C:\Users\Ксю\Desktop\HomeWork\Задача47\bin\Debug\net6.0\Задача47.pdb
+C:\Users\Ксю\Desktop\HomeWork\Задача47\obj\Debug\net6.0\Задача47.dll
+C:\Users\Ксю\Desktop\HomeWork\Задача47\obj\Debug\net6.0\refint\Задача47.dll
+C:\Users\Ксю\Desktop\HomeWork\Задача47\obj\Debug\net6.0\Задача47.pdb
+C:\Users\Ксю\Desktop\HomeWork\Задача47\obj\Debug\net6.0\Задача47.genruntimeconfig.cache
+C:\Users\Ксю\Desktop\HomeWork\Задача47\obj\Debug\net6.0\ref\Задача47.dll
